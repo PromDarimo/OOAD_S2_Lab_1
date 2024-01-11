@@ -1,0 +1,15 @@
+C:\Programming\C# .Net\drink_integration\drink_integration\bin\Debug\net7.0\drink_integration.exe
+C:\Programming\C# .Net\drink_integration\drink_integration\bin\Debug\net7.0\drink_integration.deps.json
+C:\Programming\C# .Net\drink_integration\drink_integration\bin\Debug\net7.0\drink_integration.runtimeconfig.json
+C:\Programming\C# .Net\drink_integration\drink_integration\bin\Debug\net7.0\drink_integration.dll
+C:\Programming\C# .Net\drink_integration\drink_integration\bin\Debug\net7.0\drink_integration.pdb
+C:\Programming\C# .Net\drink_integration\drink_integration\obj\Debug\net7.0\drink_integration.csproj.AssemblyReference.cache
+C:\Programming\C# .Net\drink_integration\drink_integration\obj\Debug\net7.0\drink_integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# .Net\drink_integration\drink_integration\obj\Debug\net7.0\drink_integration.AssemblyInfoInputs.cache
+C:\Programming\C# .Net\drink_integration\drink_integration\obj\Debug\net7.0\drink_integration.AssemblyInfo.cs
+C:\Programming\C# .Net\drink_integration\drink_integration\obj\Debug\net7.0\drink_integration.csproj.CoreCompileInputs.cache
+C:\Programming\C# .Net\drink_integration\drink_integration\obj\Debug\net7.0\drink_integration.dll
+C:\Programming\C# .Net\drink_integration\drink_integration\obj\Debug\net7.0\refint\drink_integration.dll
+C:\Programming\C# .Net\drink_integration\drink_integration\obj\Debug\net7.0\drink_integration.pdb
+C:\Programming\C# .Net\drink_integration\drink_integration\obj\Debug\net7.0\drink_integration.genruntimeconfig.cache
+C:\Programming\C# .Net\drink_integration\drink_integration\obj\Debug\net7.0\ref\drink_integration.dll
